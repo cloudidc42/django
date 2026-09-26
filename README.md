@@ -71,7 +71,7 @@ Django Developer มืออาชีพระดับโลก
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
 | 031 | Django Authentication System เบื้องต้น | 301-310 | ✅ |
-| 032 | Custom User Model | 311-320 | ◻️ |
+| 032 | Custom User Model | 311-320 | ✅ |
 | 033 | Permissions และ Groups | 321-330 | ◻️ |
 | 034 | Django Sessions และ Cookies | 331-340 | ◻️ |
 | 035 | Password Management, Reset และ Security | 341-350 | ◻️ |
