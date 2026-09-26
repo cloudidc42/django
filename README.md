@@ -149,12 +149,12 @@ Django Developer มืออาชีพระดับโลก
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 080 | Django Security Best Practices เบื้องต้น | 791-800 | ◻️ |
-| 081 | CSRF, XSS และ SQL Injection Prevention | 801-810 | ◻️ |
-| 082 | Security Headers และ HTTPS | 811-820 | ◻️ |
-| 083 | Rate Limiting และ Brute Force Protection | 821-830 | ◻️ |
-| 084 | Secrets Management และ Environment Variables | 831-840 | ◻️ |
-| 085 | Security Auditing และ Penetration Testing เบื้องต้น | 841-850 | ◻️ |
+| 080 | Django Security Best Practices เบื้องต้น | 791-800 | ✅ |
+| 081 | CSRF, XSS และ SQL Injection Prevention | 801-810 | ✅ |
+| 082 | Security Headers และ HTTPS | 811-820 | ✅ |
+| 083 | Rate Limiting และ Brute Force Protection | 821-830 | ✅ |
+| 084 | Secrets Management และ Environment Variables | 831-840 | ✅ |
+| 085 | Security Auditing และ Penetration Testing เบื้องต้น | 841-850 | ✅ |
 
 ## Phase 11: DevOps, Docker และ CI/CD (Part 86-93 | Step 851-930)
 
