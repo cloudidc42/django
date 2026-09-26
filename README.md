@@ -104,7 +104,7 @@ Django Developer มืออาชีพระดับโลก
 | 052 | Django กับ JavaScript และ Fetch API | 511-520 | ✅ |
 | 053 | HTMX กับ Django สำหรับ Interactive UI | 521-530 | ✅ |
 | 054 | Django กับ Alpine.js | 531-540 | ✅ |
-| 055 | Django กับ React (Django เป็น API Backend) | 541-550 | ◻️ |
+| 055 | Django กับ React (Django เป็น API Backend) | 541-550 | ✅ |
 | 056 | Django กับ Vue.js Integration | 551-560 | ✅ |
 | 057 | WebSockets เบื้องต้นด้วย Django Channels | 561-570 | ◻️ |
 | 058 | File Upload, Image Processing และ Media Handling | 571-580 | ◻️ |
