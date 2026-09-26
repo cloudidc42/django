@@ -60,7 +60,7 @@ Django Developer มืออาชีพระดับโลก
 | 023 | Generic CBV ขั้นสูง: CreateView, UpdateView, DeleteView | 221-230 | ✅ |
 | 024 | Mixins และการสร้าง CBV แบบกำหนดเอง | 231-240 | ✅ |
 | 025 | Django Forms เบื้องต้น | 241-250 | ✅ |
-| 026 | ModelForms และ Formsets | 251-260 | ◻️ |
+| 026 | ModelForms และ Formsets | 251-260 | ✅ |
 | 027 | Form Validation ขั้นสูงและ Custom Widgets | 261-270 | ✅ |
 | 028 | Template Inheritance และ Template Tags | 271-280 | ✅ |
 | 029 | Custom Template Tags และ Filters | 281-290 | ✅ |
