@@ -107,7 +107,7 @@ Django Developer มืออาชีพระดับโลก
 | 055 | Django กับ React (Django เป็น API Backend) | 541-550 | ✅ |
 | 056 | Django กับ Vue.js Integration | 551-560 | ✅ |
 | 057 | WebSockets เบื้องต้นด้วย Django Channels | 561-570 | ✅ |
-| 058 | File Upload, Image Processing และ Media Handling | 571-580 | ◻️ |
+| 058 | File Upload, Image Processing และ Media Handling | 571-580 | ✅ |
 
 ## Phase 7: Testing & Quality Assurance (Part 59-65 | Step 581-650)
 
