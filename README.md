@@ -55,7 +55,7 @@ Django Developer มืออาชีพระดับโลก
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 021 | Class-Based Views เบื้องต้น | 201-210 | ◻️ |
+| 021 | Class-Based Views เบื้องต้น | 201-210 | ✅ |
 | 022 | Generic Class-Based Views: ListView, DetailView | 211-220 | ◻️ |
 | 023 | Generic CBV ขั้นสูง: CreateView, UpdateView, DeleteView | 221-230 | ◻️ |
 | 024 | Mixins และการสร้าง CBV แบบกำหนดเอง | 231-240 | ◻️ |
