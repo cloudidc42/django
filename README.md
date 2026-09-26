@@ -131,7 +131,7 @@ Django Developer มืออาชีพระดับโลก
 | 069 | Redis Caching ขั้นสูง | 681-690 | ✅ |
 | 070 | Database Indexing และ Query Analysis | 691-700 | ✅ |
 | 071 | Pagination และ Large Dataset Handling | 701-710 | ✅ |
-| 072 | Load Testing และ Scalability Testing | 711-720 | ◻️ |
+| 072 | Load Testing และ Scalability Testing | 711-720 | ✅ |
 
 ## Phase 9: Async, Celery และ Channels (Part 73-79 | Step 721-790)
 
