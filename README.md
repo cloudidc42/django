@@ -102,7 +102,7 @@ Django Developer มืออาชีพระดับโลก
 |---|---|---|---|
 | 051 | Django กับ Bootstrap และ CSS Framework | 501-510 | ✅ |
 | 052 | Django กับ JavaScript และ Fetch API | 511-520 | ◻️ |
-| 053 | HTMX กับ Django สำหรับ Interactive UI | 521-530 | ◻️ |
+| 053 | HTMX กับ Django สำหรับ Interactive UI | 521-530 | ✅ |
 | 054 | Django กับ Alpine.js | 531-540 | ✅ |
 | 055 | Django กับ React (Django เป็น API Backend) | 541-550 | ◻️ |
 | 056 | Django กับ Vue.js Integration | 551-560 | ◻️ |
