@@ -85,7 +85,7 @@ Django Developer มืออาชีพระดับโลก
 |---|---|---|---|
 | 039 | บทนำสู่ Django REST Framework | 381-390 | ◻️ |
 | 040 | Serializers เบื้องต้น | 391-400 | ✅ |
-| 041 | ModelSerializer และ Nested Serializers | 401-410 | ◻️ |
+| 041 | ModelSerializer และ Nested Serializers | 401-410 | ✅ |
 | 042 | API Views: Function-Based และ APIView | 411-420 | ◻️ |
 | 043 | Generic API Views และ Mixins | 421-430 | ◻️ |
 | 044 | ViewSets และ Routers | 431-440 | ◻️ |
