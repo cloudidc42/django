@@ -100,7 +100,7 @@ Django Developer มืออาชีพระดับโลก
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 051 | Django กับ Bootstrap และ CSS Framework | 501-510 | ◻️ |
+| 051 | Django กับ Bootstrap และ CSS Framework | 501-510 | ✅ |
 | 052 | Django กับ JavaScript และ Fetch API | 511-520 | ◻️ |
 | 053 | HTMX กับ Django สำหรับ Interactive UI | 521-530 | ◻️ |
 | 054 | Django กับ Alpine.js | 531-540 | ◻️ |
