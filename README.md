@@ -93,7 +93,7 @@ Django Developer มืออาชีพระดับโลก
 | 046 | Authentication ขั้นสูง: JWT, Token, OAuth2 | 451-460 | ✅ |
 | 047 | Filtering, Searching, Pagination ใน DRF | 461-470 | ✅ |
 | 048 | API Versioning และ Throttling | 471-480 | ◻️ |
-| 049 | API Documentation: drf-spectacular, Swagger, OpenAPI | 481-490 | ◻️ |
+| 049 | API Documentation: drf-spectacular, Swagger, OpenAPI | 481-490 | ✅ |
 | 050 | Testing REST APIs | 491-500 | ◻️ |
 
 ## Phase 6: Frontend Integration (Part 51-58 | Step 501-580)
