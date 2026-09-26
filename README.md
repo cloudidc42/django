@@ -44,7 +44,7 @@ Django Developer มืออาชีพระดับโลก
 | 012 | ความสัมพันธ์ระหว่างโมเดล: ForeignKey, OneToOne, ManyToMany | 111-120 | ◻️ |
 | 013 | Django ORM QuerySet ขั้นสูง | 121-130 | ✅ |
 | 014 | Aggregation, Annotation และ Q/F Expressions | 131-140 | ✅ |
-| 015 | Model Meta Options, Managers และ Custom QuerySets | 141-150 | ◻️ |
+| 015 | Model Meta Options, Managers และ Custom QuerySets | 141-150 | ✅ |
 | 016 | Database Migrations ขั้นสูงและการจัดการ Schema | 151-160 | ◻️ |
 | 017 | Django Admin เบื้องต้น: ModelAdmin | 161-170 | ◻️ |
 | 018 | Django Admin ขั้นสูง: Customization และ Actions | 171-180 | ◻️ |
