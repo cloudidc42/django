@@ -160,26 +160,26 @@ Django Developer มืออาชีพระดับโลก
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 086 | Docker เบื้องต้นสำหรับ Django | 851-860 | ◻️ |
-| 087 | Docker Compose: Django + PostgreSQL + Redis | 861-870 | ◻️ |
-| 088 | CI/CD ด้วย GitHub Actions | 871-880 | ◻️ |
-| 089 | Deployment บน VPS ด้วย Gunicorn และ Nginx | 881-890 | ◻️ |
-| 090 | Deployment บน Cloud: AWS/GCP/Azure | 891-900 | ◻️ |
-| 091 | Deployment บน Heroku, Railway, Render | 901-910 | ◻️ |
-| 092 | Kubernetes เบื้องต้นสำหรับ Django | 911-920 | ◻️ |
-| 093 | Monitoring และ Logging: Sentry, ELK Stack | 921-930 | ◻️ |
+| 086 | Docker เบื้องต้นสำหรับ Django | 851-860 | ✅ |
+| 087 | Docker Compose: Django + PostgreSQL + Redis | 861-870 | ✅ |
+| 088 | CI/CD ด้วย GitHub Actions | 871-880 | ✅ |
+| 089 | Deployment บน VPS ด้วย Gunicorn และ Nginx | 881-890 | ✅ |
+| 090 | Deployment บน Cloud: AWS/GCP/Azure | 891-900 | ✅ |
+| 091 | Deployment บน Heroku, Railway, Render | 901-910 | ✅ |
+| 092 | Kubernetes เบื้องต้นสำหรับ Django | 911-920 | ✅ |
+| 093 | Monitoring และ Logging: Sentry, ELK Stack | 921-930 | ✅ |
 
 ## Phase 12: Scaling, Enterprise, โปรเจกต์จริง และเส้นทางอาชีพ (Part 94-100 | Step 931-1000)
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 094 | Microservices Architecture กับ Django | 931-940 | ◻️ |
-| 095 | Multi-tenant Django Applications | 941-950 | ◻️ |
-| 096 | GraphQL กับ Django (Graphene) | 951-960 | ◻️ |
-| 097 | โปรเจกต์จริง: ระบบ E-Commerce แบบครบวงจร | 961-970 | ◻️ |
-| 098 | โปรเจกต์จริง: ระบบ Social Media Platform | 971-980 | ◻️ |
-| 099 | Django Design Patterns และ Clean Architecture | 981-990 | ◻️ |
-| 100 | เส้นทางอาชีพ Django Developer และ Open Source | 991-1000 | ◻️ |
+| 094 | Microservices Architecture กับ Django | 931-940 | ✅ |
+| 095 | Multi-tenant Django Applications | 941-950 | ✅ |
+| 096 | GraphQL กับ Django (Graphene) | 951-960 | ✅ |
+| 097 | โปรเจกต์จริง: ระบบ E-Commerce แบบครบวงจร | 961-970 | ✅ |
+| 098 | โปรเจกต์จริง: ระบบ Social Media Platform | 971-980 | ✅ |
+| 099 | Django Design Patterns และ Clean Architecture | 981-990 | ✅ |
+| 100 | เส้นทางอาชีพ Django Developer และ Open Source | 991-1000 | ✅ |
 
 ---
 
