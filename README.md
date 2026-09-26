@@ -47,7 +47,7 @@ Django Developer มืออาชีพระดับโลก
 | 015 | Model Meta Options, Managers และ Custom QuerySets | 141-150 | ✅ |
 | 016 | Database Migrations ขั้นสูงและการจัดการ Schema | 151-160 | ◻️ |
 | 017 | Django Admin เบื้องต้น: ModelAdmin | 161-170 | ◻️ |
-| 018 | Django Admin ขั้นสูง: Customization และ Actions | 171-180 | ◻️ |
+| 018 | Django Admin ขั้นสูง: Customization และ Actions | 171-180 | ✅ |
 | 019 | Signals และ Django Lifecycle Hooks | 181-190 | ◻️ |
 | 020 | Multiple Databases และ Database Routing | 191-200 | ◻️ |
 
