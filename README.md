@@ -89,7 +89,7 @@ Django Developer มืออาชีพระดับโลก
 | 042 | API Views: Function-Based และ APIView | 411-420 | ✅ |
 | 043 | Generic API Views และ Mixins | 421-430 | ✅ |
 | 044 | ViewSets และ Routers | 431-440 | ✅ |
-| 045 | DRF Permissions และ Authentication | 441-450 | ◻️ |
+| 045 | DRF Permissions และ Authentication | 441-450 | ✅ |
 | 046 | Authentication ขั้นสูง: JWT, Token, OAuth2 | 451-460 | ✅ |
 | 047 | Filtering, Searching, Pagination ใน DRF | 461-470 | ◻️ |
 | 048 | API Versioning และ Throttling | 471-480 | ◻️ |
