@@ -75,9 +75,9 @@ Django Developer มืออาชีพระดับโลก
 | 033 | Permissions และ Groups | 321-330 | ✅ |
 | 034 | Django Sessions และ Cookies | 331-340 | ✅ |
 | 035 | Password Management, Reset และ Security | 341-350 | ◻️ |
-| 036 | Social Authentication (OAuth, django-allauth) | 351-360 | ◻️ |
+| 036 | Social Authentication (OAuth, django-allauth) | 351-360 | ✅ |
 | 037 | Two-Factor Authentication | 361-370 | ✅ |
-| 038 | Row-Level Permissions และ Object-Level Permission | 371-380 | ◻️ |
+| 038 | Row-Level Permissions และ Object-Level Permission | 371-380 | ✅ |
 
 ## Phase 5: Django REST Framework และ API (Part 39-50 | Step 381-500)
 
