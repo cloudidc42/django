@@ -127,7 +127,7 @@ Django Developer มืออาชีพระดับโลก
 |---|---|---|---|
 | 066 | Django Performance Profiling | 651-660 | ✅ |
 | 067 | Query Optimization: select_related, prefetch_related | 661-670 | ✅ |
-| 068 | Django Caching Framework เบื้องต้น | 671-680 | ◻️ |
+| 068 | Django Caching Framework เบื้องต้น | 671-680 | ✅ |
 | 069 | Redis Caching ขั้นสูง | 681-690 | ✅ |
 | 070 | Database Indexing และ Query Analysis | 691-700 | ◻️ |
 | 071 | Pagination และ Large Dataset Handling | 701-710 | ◻️ |
