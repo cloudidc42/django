@@ -56,10 +56,10 @@ Django Developer มืออาชีพระดับโลก
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
 | 021 | Class-Based Views เบื้องต้น | 201-210 | ✅ |
-| 022 | Generic Class-Based Views: ListView, DetailView | 211-220 | ◻️ |
+| 022 | Generic Class-Based Views: ListView, DetailView | 211-220 | ✅ |
 | 023 | Generic CBV ขั้นสูง: CreateView, UpdateView, DeleteView | 221-230 | ✅ |
 | 024 | Mixins และการสร้าง CBV แบบกำหนดเอง | 231-240 | ✅ |
-| 025 | Django Forms เบื้องต้น | 241-250 | ◻️ |
+| 025 | Django Forms เบื้องต้น | 241-250 | ✅ |
 | 026 | ModelForms และ Formsets | 251-260 | ◻️ |
 | 027 | Form Validation ขั้นสูงและ Custom Widgets | 261-270 | ◻️ |
 | 028 | Template Inheritance และ Template Tags | 271-280 | ◻️ |
