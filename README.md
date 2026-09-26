@@ -119,7 +119,7 @@ Django Developer มืออาชีพระดับโลก
 | 062 | Test Coverage และ Mocking | 611-620 | ✅ |
 | 063 | Factory Boy และ Test Data Generation | 621-630 | ✅ |
 | 064 | Integration Testing และ Selenium | 631-640 | ◻️ |
-| 065 | Continuous Testing และ Code Quality Tools | 641-650 | ◻️ |
+| 065 | Continuous Testing และ Code Quality Tools | 641-650 | ✅ |
 
 ## Phase 8: Performance & Caching (Part 66-72 | Step 651-720)
 
