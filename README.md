@@ -29,8 +29,8 @@ Django Developer มืออาชีพระดับโลก
 | 002 | ทบทวน Python ที่จำเป็นสำหรับ Django Developer | 11-20 | ✅ |
 | 003 | Virtual Environment, pip และการจัดการแพ็กเกจ | 21-30 | ✅ |
 | 004 | สร้างโปรเจกต์ Django แรกและทำความเข้าใจโครงสร้าง | 31-40 | ✅ |
-| 005 | Django Apps และการจัดระเบียบโค้ด | 41-50 | ◻️ |
-| 006 | URL Routing และ URLconf เบื้องต้น | 51-60 | ◻️ |
+| 005 | Django Apps และการจัดระเบียบโค้ด | 41-50 | ✅ |
+| 006 | URL Routing และ URLconf เบื้องต้น | 51-60 | ✅ |
 | 007 | Views แบบ Function-Based เบื้องต้น | 61-70 | ◻️ |
 | 008 | Django Template Language เบื้องต้น | 71-80 | ◻️ |
 | 009 | Static Files และ Media Files เบื้องต้น | 81-90 | ◻️ |
