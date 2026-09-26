@@ -142,7 +142,7 @@ Django Developer มืออาชีพระดับโลก
 | 075 | Celery เบื้องต้น: Background Tasks | 741-750 | ✅ |
 | 076 | Celery ขั้นสูง: Periodic Tasks, Chains, Chords | 751-760 | ✅ |
 | 077 | Message Queue ด้วย RabbitMQ/Redis | 761-770 | ◻️ |
-| 078 | Real-time Notification System | 771-780 | ◻️ |
+| 078 | Real-time Notification System | 771-780 | ✅ |
 | 079 | Background Job Monitoring: Flower, Django-RQ | 781-790 | ◻️ |
 
 ## Phase 10: Security (Part 80-85 | Step 791-850)
