@@ -137,7 +137,7 @@ Django Developer มืออาชีพระดับโลก
 
 | Part | ชื่อตอน | ขั้นตอน | สถานะ |
 |---|---|---|---|
-| 073 | Async Views และ ASGI เบื้องต้น | 721-730 | ◻️ |
+| 073 | Async Views และ ASGI เบื้องต้น | 721-730 | ✅ |
 | 074 | Django Channels ขั้นสูง: Consumers และ Groups | 731-740 | ◻️ |
 | 075 | Celery เบื้องต้น: Background Tasks | 741-750 | ◻️ |
 | 076 | Celery ขั้นสูง: Periodic Tasks, Chains, Chords | 751-760 | ◻️ |
